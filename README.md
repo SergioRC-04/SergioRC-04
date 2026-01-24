@@ -1,19 +1,19 @@
 # 👋 ¡Hola! Soy Sergio Rodriguez
 
-🎓 Estudiante de noveno semestre de Ingeniería de Sistemas y Computación en la Universidad del Norte (Uninorte).
+🎓 Ingeniero de Sistemas y Computación en la Universidad del Norte (Uninorte).
 
-💻 Apasionado por la tecnología, el desarrollo de software y la creación de soluciones prácticas e innovadoras. Me gusta aprender constantemente y experimentar con nuevas herramientas que me permitan crecer como desarrollador.
+💻 Apasionado por la tecnología, el desarrollo de software y la creación de soluciones prácticas e innovadoras. Mi enfoque esta en la automatización de procesos, ya que cuento con experiencia laboral en la busqueda de soluciones optimas en procesos repetitivos. De igual manera, me gusta aprender constantemente y experimentar con nuevas herramientas que me permitan crecer como desarrollador.
 
 ## 🚀 Tecnologías y Herramientas que utilizo
 
-- **Lenguajes de programación**: Python, JavaScript, Java (básico), R  
+- **Lenguajes de programación**: Python, JavaScript, TypeScript  
 - **Web Development**: HTML, CSS  
 - **Bases de datos**: SQL, MySQL Server, PostgreSQL  
 - **Frameworks y herramientas**:
-  - Backend: Django
+  - Backend: Django, Nest JS
   - Contenedores: Docker
   - Control de versiones: Git & GitHub
-  - Desarrollo móvil: FlutterFlow
+  - Desarrollo móvil: FlutterFlow, React Native (En proceso)
   - IDEs: Visual Studio Code, Android Studio
 
 📚 Próximamente: Aprendiendo **React** para desarrollo frontend moderno.
@@ -21,11 +21,12 @@
 ## 🌱 Actualmente estoy aprendiendo
 
 - React
+- React Native
 - Mejores prácticas en desarrollo web full-stack
 
 ## 📫 Cómo contactarme
 
-- Correo: srodriwdev@gmail.com
+- Correo: srodriguezcabana@gmail.com
 
 ## ⚡ Dato curioso
 
