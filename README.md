@@ -27,6 +27,7 @@
 ## 📫 Cómo contactarme
 
 - Correo: srodriguezcabana@gmail.com
+- LinkedIn: linkedin.com/in/sergio-rodriguez-ca04
 
 ## ⚡ Dato curioso
 
