@@ -16,8 +16,6 @@
   - Desarrollo móvil: FlutterFlow, React Native (En proceso)
   - IDEs: Visual Studio Code, Android Studio
 
-📚 Próximamente: Aprendiendo **React** para desarrollo frontend moderno.
-
 ## 🌱 Actualmente estoy aprendiendo
 
 - React
